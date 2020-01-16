@@ -5,5 +5,5 @@ def square_array(array)
     array[counter] = array[counter] * array[counter]
   end
   
-  array
+  return array
 end
